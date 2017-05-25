@@ -2,7 +2,7 @@
 
 > Someone told me to come here... **What is this?**
 
-Project Reno is a very lightweight javascript library for web developers which, by default, lights up numerous OS features when run as a Progressive Web App.  Currently, this lights up features on Windows 10 (that is where the APIs are!) but will expand to other platforms in the future.
+Project Reno is a very lightweight javascript library for web developers which, by default, lights up numerous OS features when ran as a Progressive Web App.  Currently, this lights up features on Windows 10 (that is where the APIs are!) but will expand to other platforms in the future.
 
 > What does that mean?
 
